@@ -51,6 +51,10 @@
    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+   
+## 🌐 Live Demo
+Check out the live site here: [CaptureLife Studio Demo](https://captuerlifestudio.netlify.app/)
+
 
 ### Building for Production
 
