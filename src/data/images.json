@@ -1,0 +1,25 @@
+{
+  "home": {
+    "hero": "/assets/images/home/hero.jpg",
+    "gallery": [
+      "/assets/images/home/sample1.jpg",
+      "/assets/images/home/sample2.jpg",
+      "/assets/images/home/sample3.jpg"
+    ]
+  },
+  "about": {
+    "banner": "/assets/images/about/banner.jpg",
+    "gallery": [
+      "/assets/images/about/team1.jpg",
+      "/assets/images/about/studio.jpg"
+    ]
+  },
+  "ourWork": {
+    "gallery": [
+      "/assets/images/our-work/work1.jpg",
+      "/assets/images/our-work/work2.jpg",
+      "/assets/images/our-work/work3.jpg",
+      "/assets/images/our-work/work4.jpg"
+    ]
+  }
+}
