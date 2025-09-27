@@ -1,7 +1,6 @@
 # CaptureLife Studio
 
 <p align="center">
-  <img src="public/logo192.png" alt="CaptureLife Studio Logo" width="120" />
   <h1 align="center">CaptureLife Studio</h1>
   <p align="center">A modern, responsive photography portfolio website with booking system and dark/light theme support</p>
   
